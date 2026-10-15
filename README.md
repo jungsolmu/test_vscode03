@@ -1,4 +1,6 @@
-# ONYU 온유 — test_vscode
+# ONYU 온유 — test_vscode03
+
+ONYU beauty brand website built with HTML, CSS and JavaScript
 
 HTML, CSS, JavaScript로 만든 가상의 뷰티 브랜드 웹사이트입니다.
 
